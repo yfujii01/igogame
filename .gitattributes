@@ -1,1 +1,1 @@
-*.cpp diff=utf16
+*.cpp diff=utf16le
